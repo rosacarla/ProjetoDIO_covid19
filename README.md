@@ -5,4 +5,4 @@
 #### Tecnologias utilizadas: Kaggle, JupyterLab, bibliotecas Python, GitHub.
 
 ## Licença
-Distribuído sob a licença [MIT](https://choosealicense.com/licenses/mit/). Veja LICENSEpara informações adicionais.
+Distribuído sob a licença [MIT](https://choosealicense.com/licenses/mit/). Veja `LICENSE` para informações adicionais.
