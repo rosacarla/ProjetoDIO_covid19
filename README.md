@@ -4,5 +4,17 @@
 
 #### Tecnologias utilizadas: Kaggle, JupyterLab, bibliotecas Python, GitHub.
 
+---
+
+## Autora  
+
+Carla Edila Silveira  
+Contato: rosa.carla@pucpr.edu.br 
+
+---
+
 ## Licença
-Distribuído sob a licença [MIT](https://choosealicense.com/licenses/mit/). Veja `LICENSE` para informações adicionais.
+Distribuído sob a licença [MIT](https://choosealicense.com/licenses/mit/).  
+Veja `LICENSE` para informações adicionais.
+
+---
